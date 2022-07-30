@@ -42,11 +42,11 @@ android {
 }
 
 dependencies {
-    compile fileTree(include: ['*.jar'], dir: 'libs')
-    compile 'com.android.support:appcompat-v7:25.2.0'
-    compile 'com.android.support:support-v4:25.2.0'
-    compile 'org.jetbrains:annotations:13.0'
-    compile 'com.takisoft.fix:preference-v7:25.2.0.0'
-    compile 'com.github.stkent:amplify:2.0.0'
-    compile 'org.bitlet:weupnp:0.1.4'
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.android.support:appcompat-v7:25.2.0'
+    implementation 'com.android.support:support-v4:25.2.0'
+    implementation 'org.jetbrains:annotations:13.0'
+    implementation 'com.takisoft.fix:preference-v7:25.2.0.0'
+    implementation 'com.github.stkent:amplify:2.0.0'
+    implementation 'org.bitlet:weupnp:0.1.4'
 }

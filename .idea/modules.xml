@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spyNet Camera.iml" filepath="$PROJECT_DIR$/spyNet Camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spynet-camera.iml" filepath="$PROJECT_DIR$/.idea/modules/spynet-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/spynet-camera.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/spynet-camera.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/spynet-camera.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/spynet-camera.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/spynet-camera.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/spynet-camera.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/spynet-camera.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/spynet-camera.app.unitTest.iml" />
     </modules>
   </component>
 </project>
